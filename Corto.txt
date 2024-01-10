@@ -1,0 +1,6 @@
+Asdfghjklñ
+<<<<<<< HEAD
+aguelaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
+abuelaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> c737587 (jesucristo el robot del futuro que resuelve los problemas con besos y dulzura)
